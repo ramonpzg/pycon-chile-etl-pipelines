@@ -6,10 +6,13 @@
 
 ## PyCon Chile 2021
 
-Bienvenidos a *ETL Pipelines 4 Data Professionasl*, un tutorial en el cual aprenderas a crear tuberias para manejar el procesamiento para extraer, transformar, y descargar datos a una nueva base de datos.
+Bienvenidos a *ETL Pipelines 4 Data Professionasl*, un tutorial de programacion en el cual aprenderas a crear tuberias para manejar el procesamiento para extraer, transformar, y descargar datos a una nueva base de datos.
 
+Este tutorial se llevara acabo a traves de Binder, y lo pueded acceder usando el boton en la siguiente linea.
 
-**Please download the data and notebooks and set up your environment before the tutorial, and please let me know through email or slack if you have any issues with anything.**
+[![Binder](https://mybinder.org/badge_logo.svg)]()
+
+Si quieres, puedes seguir el tutorial desde tu computadora, solo cerciorate de que tienes los siguientes modulos instalados
 
 ## Tabla de Contenidos
 
