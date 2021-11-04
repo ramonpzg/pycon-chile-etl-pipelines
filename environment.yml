@@ -19,4 +19,6 @@ dependencies:
   - pip:
     - dask==2021.9.1
     - prefect==0.15.6
+    - graphviz
+    - 'prefect[viz]'
     - pyarrow==5.0.0
