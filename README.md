@@ -10,7 +10,7 @@ Bienvenidos a *ETL Pipelines 4 Data Professionasl*, un tutorial de programacion 
 
 Este tutorial se llevara acabo a traves de Binder, y lo pueded acceder usando el boton en la siguiente linea.
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonpzg/pycon-chile-etl-pipelines/master)
 
 Si quieres, puedes seguir el tutorial desde tu computadora, solo cerciorate de que tienes los siguientes modulos instalados
 
