@@ -1,2 +1,26 @@
 data/processed/bikes.db
 data/processed/clean.parquet
+.ipynb_checkpoints/
+README-Copy1.md
+data/example/Total Wildland Fires and Acres (1983-2020).csv
+data/example/my_test.parquet
+data/external/
+data/interim/
+data/raw/london/london_merged.csv
+data/raw/porto/
+data/raw/wash_dc/day.csv
+data/raw/wash_dc/hour.csv
+docs/
+notebooks/__pycache__/
+notebooks/etl.ipynb
+notebooks/london_bikes.db
+notebooks/lost_code.ipynb
+notebooks/pipe_demo.md
+notebooks/presentation.html
+notebooks/presentation.ipynb
+notebooks/utilities.py
+pycon_sweden_21.md
+reports/
+src/
+notebooks/testing.ipynb
+data/raw/.gitkeep
