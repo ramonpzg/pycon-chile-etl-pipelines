@@ -8,38 +8,39 @@
 
 Bienvenidos a *ETL Pipelines 4 Data Professionasl*, un tutorial de programacion en el cual aprenderas a crear tuberias para manejar el procesamiento para extraer, transformar, y descargar datos a una nueva base de datos.
 
-Este tutorial se llevara acabo a traves de Binder, y lo pueded acceder usando el boton en la siguiente linea.
+Este tutorial se llevara acabo a traves de Binder y lo pueded acceder usando el boton en la siguiente linea.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonpzg/pycon-chile-etl-pipelines/master)
 
-Si quieres, puedes seguir el tutorial desde tu computadora, solo cerciorate de que tienes los siguientes modulos instalados
 
 ## Tabla de Contenidos
 
-1. Que son las Tuberias ETL y Por Que Deberias Aprender a Crearlas?
-2. Cuales Profesionales de Datos Usan Estas Tuberias?
-3. Nuestro Caso Para Este Taller
-4. Herramientas Para la Sesion
-5. Datos
-6. Tuberias Pequeñas con 🐼's `pipe`
-7. Extraer
-8. Tranformar
-9. Descargar
-10. Automatizar
-11. Resumen
-12. Pasos Adicionales
-13. Bibliografia
-14. Encuesta 😃
+Prerequisites
+Goals/Learning Outcomes
+Setup
+Presentation (link below)
 
-Run this tutorial on Binder
+Acknowledgements
+Resources
+Feedback smiley
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramonpzg/scipyus21_dask_analytics/master)
+1. Organización del Tutorial
+2. Objetivos y resultados del aprendizaje
+3. Preparacion de tu Computadora
+4. Datos
+5. Notebook
+6. Agradecimientos
+7. Recursos Adicionales
+8. Encuesta 😃
 
-## 1. Outline for the Tutorial
+Si quieres, puedes seguir el tutorial desde tu computadora, solo asegurate de seguir los siguientes pasos.
+
+
+## 1. Organización del Tutorial
 
 The time budgeted for this tutorial is about 3.5 hours including breaks. We will follow, as best as possible, the following schedule.
 
-1. **Introduction and Setup | 2:00 - 2:30 (Central/US)**
+1. **Introduccion al Tutorial | 2:00 - 2:30 (Central/US)**
    - Getting the environment set up. We will be using Jupyter Lab and some of the libraries in the Python scientific stack throughout the tutorial. If you experience any difficulties getting fully setup for the lessons ahead, please let me know as soon as possible. Otherwise, I know that having zoom and using all of the cores in your machine can make things slow down quite dramatically, and because of this, you can also access all of the content for the session through Binder using the link above and we can work on your setup during the break.
     - Presentation including
       - A breakdown of the session
